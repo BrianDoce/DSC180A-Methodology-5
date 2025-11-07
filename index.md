@@ -11,3 +11,4 @@ Creating an automatic alert when a task is approaching being classified as an ou
 I would work with my team to make all of our edas' aim to solve one potential problem because all of our eda were similar, but if we put it all together we could have created something more valuable. 
 
 **What other techniques would you be interested in using in your project?**
+Use algorithms to optimize crew truck routes, creating dashboards / kpis on the data, use computer vision to identify faulty equipment, predict outages.
