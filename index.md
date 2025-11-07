@@ -1,4 +1,3 @@
-# DSC180A-Methodology-5
 Brian Docena(brdocena@ucsd.edu)
 B19 Phi Nguyen, Chuck Hahm, Fatemeh Aarabi
 
